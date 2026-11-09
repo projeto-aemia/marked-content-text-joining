@@ -1,0 +1,120 @@
+{
+  "per_language": {
+    "en": {
+      "train_docs": 60,
+      "val_docs": 10,
+      "test_docs": 15,
+      "train_boundaries": 12770,
+      "val_boundaries": 3558,
+      "test_boundaries": 2687,
+      "train_join_ratio": 0.7721221613155834,
+      "test_join_ratio": 0.7621883141049498
+    },
+    "ru": {
+      "train_docs": 60,
+      "val_docs": 10,
+      "test_docs": 15,
+      "train_boundaries": 10839,
+      "val_boundaries": 704,
+      "test_boundaries": 3446,
+      "train_join_ratio": 0.687240520343205,
+      "test_join_ratio": 0.7048752176436448
+    },
+    "es": {
+      "train_docs": 60,
+      "val_docs": 10,
+      "test_docs": 15,
+      "train_boundaries": 17817,
+      "val_boundaries": 2306,
+      "test_boundaries": 4438,
+      "train_join_ratio": 0.7957007352528485,
+      "test_join_ratio": 0.7541685443893645
+    },
+    "tr": {
+      "train_docs": 60,
+      "val_docs": 10,
+      "test_docs": 15,
+      "train_boundaries": 2910,
+      "val_boundaries": 104,
+      "test_boundaries": 850,
+      "train_join_ratio": 0.7006872852233677,
+      "test_join_ratio": 0.5070588235294118
+    },
+    "fr": {
+      "train_docs": 60,
+      "val_docs": 10,
+      "test_docs": 15,
+      "train_boundaries": 3983,
+      "val_boundaries": 738,
+      "test_boundaries": 1759,
+      "train_join_ratio": 0.697464222947527,
+      "test_join_ratio": 0.7532689027856737
+    },
+    "cs": {
+      "train_docs": 60,
+      "val_docs": 10,
+      "test_docs": 15,
+      "train_boundaries": 3436,
+      "val_boundaries": 740,
+      "test_boundaries": 2326,
+      "train_join_ratio": 0.580908032596042,
+      "test_join_ratio": 0.6225279449699054
+    },
+    "pt": {
+      "train_docs": 60,
+      "val_docs": 10,
+      "test_docs": 15,
+      "train_boundaries": 17139,
+      "val_boundaries": 3673,
+      "test_boundaries": 2047,
+      "train_join_ratio": 0.8132913238812066,
+      "test_join_ratio": 0.7816316560820713
+    },
+    "de": {
+      "train_docs": 60,
+      "val_docs": 10,
+      "test_docs": 15,
+      "train_boundaries": 5330,
+      "val_boundaries": 1164,
+      "test_boundaries": 627,
+      "train_join_ratio": 0.6754221388367729,
+      "test_join_ratio": 0.5007974481658692
+    },
+    "pl": {
+      "train_docs": 60,
+      "val_docs": 10,
+      "test_docs": 15,
+      "train_boundaries": 11804,
+      "val_boundaries": 3026,
+      "test_boundaries": 7919,
+      "train_join_ratio": 0.6318197221280921,
+      "test_join_ratio": 0.7176411163025634
+    },
+    "uk": {
+      "train_docs": 60,
+      "val_docs": 10,
+      "test_docs": 15,
+      "train_boundaries": 24246,
+      "val_boundaries": 2722,
+      "test_boundaries": 2800,
+      "train_join_ratio": 0.7491544997112926,
+      "test_join_ratio": 0.6564285714285715
+    },
+    "id": {
+      "train_docs": 60,
+      "val_docs": 10,
+      "test_docs": 15,
+      "train_boundaries": 23485,
+      "val_boundaries": 3244,
+      "test_boundaries": 5689,
+      "train_join_ratio": 0.8360655737704918,
+      "test_join_ratio": 0.8426788539286342
+    }
+  },
+  "global": {
+    "total_train_boundaries": 133759,
+    "total_val_boundaries": 21979,
+    "total_test_boundaries": 34588,
+    "total_documents": 935
+  }
+}

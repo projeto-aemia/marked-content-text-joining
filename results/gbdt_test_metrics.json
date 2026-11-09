@@ -1,0 +1,47 @@
+{
+  "accuracy": 0.8972602739726028,
+  "macro_f1": 0.8327676904802308,
+  "join_f1": 0.9366197183098591,
+  "split_f1": 0.7289156626506024,
+  "roc_auc": 0.9793764357056841,
+  "confusion_matrix": [
+    [
+      121,
+      12
+    ],
+    [
+      78,
+      665
+    ]
+  ],
+  "feature_importances": {
+    "dy": 888.0,
+    "width_a": 844.0,
+    "dx": 798.0,
+    "width_b": 689.0,
+    "len_a": 649.0,
+    "len_b": 584.0,
+    "x_overlap": 519.0,
+    "ends_with_terminal_punct": 229.0,
+    "height_a": 214.0,
+    "starts_with_uppercase": 171.0,
+    "height_b": 155.0,
+    "starts_with_lowercase": 92.0,
+    "font_size_a": 89.0,
+    "ends_with_soft_punct": 80.0,
+    "same_font": 77.0,
+    "font_size_b": 71.0,
+    "is_bullet_a": 59.0,
+    "same_bold": 55.0,
+    "starts_with_digit": 52.0,
+    "font_size_ratio": 49.0,
+    "same_italic": 46.0,
+    "font_size_diff": 33.0,
+    "same_page": 20.0,
+    "ends_with_quote_or_paren": 16.0,
+    "is_same_line": 9.0,
+    "ends_with_hyphen": 5.0,
+    "is_bullet_b": 0.0,
+    "is_short_label_a": 0.0
+  }
+}

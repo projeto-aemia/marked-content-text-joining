@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marked Content Text Joining Web Demo</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="feature_extractor.js"></script>
+    <script src="gbdt_evaluator.js"></script>
+    <script src="app.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Marked Content Text Joining Web Demo</h1>
+            <p class="subtitle">Interactive Multilingual Evaluation of 6 Machine Learning Strategies &amp; Heuristic Baseline across 11 Languages</p>
+        </header>
+
+        <!-- Controls Bar -->
+        <div class="controls-bar">
+            <div class="control-group">
+                <label for="lang-select">Language: </label>
+                <select id="lang-select" onchange="onLanguageChange()">
+                    <option value="pt">Portuguese (pt)</option>
+                    <option value="en">English (en)</option>
+                    <option value="es">Spanish (es)</option>
+                    <option value="cs">Czech (cs)</option>
+                    <option value="ru">Russian (ru)</option>
+                    <option value="de">German (de)</option>
+                    <option value="fr">French (fr)</option>
+                    <option value="id">Indonesian (id)</option>
+                    <option value="pl">Polish (pl)</option>
+                    <option value="tr">Turkish (tr)</option>
+                    <option value="uk">Ukrainian (uk)</option>
+                </select>
+            </div>
+
+            <div class="control-group" style="flex: 1; min-width: 300px;">
+                <label for="strategy-select">Evaluation Strategy: </label>
+                <select id="strategy-select" onchange="runInference()">
+                    <optgroup label="Baseline">
+                        <option value="heuristic">Heuristic Baseline (Zero ML, Rule-based)</option>
+                    </optgroup>
+                    <optgroup label="Strategy 1: Language-Specific GBDTs">
+                        <option value="lang_gbdt">Substrategy 1.1: Language GBDT Only (87.1% Global F1)</option>
+                        <option value="lang_gbdt_lang_encoder">Substrategy 1.2: Language GBDT + 11 Lang Cross-Encoders (90.4% Global F1)</option>
+                        <option value="lang_gbdt_univ_encoder">Substrategy 1.3: Language GBDT + Universal Cross-Encoder (92.0% Global F1)</option>
+                    </optgroup>
+                    <optgroup label="Strategy 2: Universal GBDT (Recommended)">
+                        <option value="univ_gbdt" selected>Substrategy 2.1: Universal GBDT Only: Production Champion (92.2% F1 | 13µs | 1.0 MB)</option>
+                        <option value="univ_gbdt_lang_encoder">Substrategy 2.2: Universal GBDT + 11 Lang Cross-Encoders (91.6% Global F1)</option>
+                        <option value="univ_gbdt_univ_encoder">Substrategy 2.3: Universal GBDT + Universal Cross-Encoder (92.8% F1 | 94.5% Acc)</option>
+                    </optgroup>
+                </select>
+            </div>
+
+            <div class="control-group">
+                <label for="sample-select">Document Sample: </label>
+                <select id="sample-select" onchange="onSampleChange()">
+                    <option value="current">Current Language Sample</option>
+                    <option value="pt">Portuguese (Requisitos &amp; Perspectivas)</option>
+                    <option value="en">English (Accessibility Guidelines)</option>
+                    <option value="es">Spanish (Metodología Inclusiva)</option>
+                    <option value="cs">Czech (Architektura Hybridní Knihy)</option>
+                    <option value="ru">Russian (Образовательные стандарты)</option>
+                </select>
+            </div>
+
+            <button onclick="runInference()">Re-evaluate</button>
+            <span id="status-text" style="font-size: 12px; color: var(--accent-green); margin-left: auto;">Loading models...</span>
+        </div>
+
+        <!-- Strategy Empirical Benchmark Card -->
+        <div class="strategy-card" id="strategy-card">
+            <div class="strategy-header">
+                <span class="strategy-title" id="strategy-card-title">Strategy 2.1: Universal GBDT Only</span>
+                <span class="strategy-badge" id="strategy-card-badge">Production Default</span>
+            </div>
+            <div class="strategy-metrics">
+                <div class="metric-pill">
+                    <div class="metric-name">Global Macro F1</div>
+                    <div class="metric-val" id="metric-global-f1">92.20%</div>
+                </div>
+                <div class="metric-pill">
+                    <div class="metric-name" id="metric-lang-label">PT Macro F1</div>
+                    <div class="metric-val" id="metric-lang-f1">93.72%</div>
+                </div>
+                <div class="metric-pill">
+                    <div class="metric-name">Global Accuracy</div>
+                    <div class="metric-val" id="metric-global-acc">93.82%</div>
+                </div>
+                <div class="metric-pill">
+                    <div class="metric-name">Phrase Exact Match</div>
+                    <div class="metric-val" id="metric-global-em">76.98%</div>
+                </div>
+                <div class="metric-pill">
+                    <div class="metric-name">Avg. Decision Latency</div>
+                    <div class="metric-val" id="metric-latency">0.013 ms</div>
+                </div>
+            </div>
+            <div class="strategy-description" id="strategy-card-desc">
+                The standalone Universal GBDT is the overall efficiency champion: 1.0 MB footprint, 13 µs latency, 92.20% Macro F1, and highest Phrase Exact Match (76.98%). Requires zero external neural runtimes.
+            </div>
+        </div>
+
+        <!-- Live Statistics -->
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-title">Input Pieces</div>
+                <div class="stat-value" id="stat-pieces">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-title">Boundaries</div>
+                <div class="stat-value" id="stat-boundaries">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-title">Phrases</div>
+                <div class="stat-value" id="stat-phrases">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-title">Fast-Path Ratio</div>
+                <div class="stat-value" id="stat-fast-path">100%</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-title">Measured Latency</div>
+                <div class="stat-value" id="stat-latency">-</div>
+            </div>
+        </div>
+
+        <!-- View Mode Toggle & Legend -->
+        <div class="view-mode-bar">
+            <div class="view-mode-buttons">
+                <span class="view-mode-label">Layout View:</span>
+                <button type="button" class="mode-btn active" id="btn-side-by-side" onclick="setViewMode('side-by-side')">
+                    Side-by-Side (Aligned Rows)
+                </button>
+                <button type="button" class="mode-btn" id="btn-split" onclick="setViewMode('split')">
+                    Split Column
+                </button>
+            </div>
+            <div class="legend-items">
+                <span class="legend-badge legend-join">↦ ↤ JOIN: Continues Paragraph</span>
+                <span class="legend-badge legend-split">↤ ↦ SPLIT: New Paragraph / Block</span>
+                <span class="legend-hint">Hover over pieces or segments to highlight correspondence</span>
+            </div>
+        </div>
+
+        <!-- Comparison Container (supports aligned side-by-side rows or split column) -->
+        <div id="comparison-view" class="comparison-container mode-side-by-side"></div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Heavy Training and Boundary Datasets (reproducible via scripts / manifests)
+data/multilingual/*.json
+!data/multilingual/multilingual_dataset_summary.json
+data/train_boundaries.json
+data/val_boundaries.json
+data/test_boundaries.json
+data/dataset_summary.json
+
+# Large Transformer Checkpoints & Weights (>50 MB to 500 MB each)
+saved_models/multilingual/cross_encoder_*
+saved_models/cross_encoder_*
+
+# Web demo compiled ONNX weights (>100 MB each)
+src/export/web_demo/*.onnx
+src/export/web_demo/*.onnx.data
+src/export/web_demo/tokenizer.json
+
+# Conversion & run logs
+*_conversion_errors.txt
+*.log

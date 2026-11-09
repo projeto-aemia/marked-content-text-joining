@@ -1,0 +1,610 @@
+{
+  "gbdt_language_specific": {
+    "en": {
+      "accuracy": 0.9028656494231485,
+      "macro_f1": 0.8760387374636962,
+      "join_f1": 0.9337058674117348,
+      "split_f1": 0.8183716075156576,
+      "roc_auc": 0.9639596476428012,
+      "confusion_matrix": [
+        [
+          588,
+          51
+        ],
+        [
+          210,
+          1838
+        ]
+      ],
+      "feature_importances": {
+        "dx": 1028.0,
+        "dy": 963.0,
+        "len_b": 853.0,
+        "width_b": 666.0,
+        "width_a": 617.0,
+        "len_a": 588.0,
+        "x_overlap": 547.0,
+        "height_a": 267.0,
+        "starts_with_lowercase": 241.0,
+        "starts_with_uppercase": 221.0,
+        "height_b": 179.0,
+        "ends_with_terminal_punct": 164.0,
+        "font_size_a": 105.0,
+        "is_bullet_a": 102.0,
+        "is_same_line": 91.0,
+        "same_font": 85.0,
+        "same_bold": 83.0,
+        "font_size_ratio": 80.0,
+        "ends_with_quote_or_paren": 75.0,
+        "font_size_diff": 47.0,
+        "font_size_b": 43.0,
+        "ends_with_soft_punct": 39.0,
+        "same_page": 27.0,
+        "same_italic": 27.0,
+        "is_bullet_b": 27.0,
+        "starts_with_digit": 23.0,
+        "ends_with_hyphen": 22.0,
+        "is_short_label_a": 0.0,
+        "starts_with_inverted_punct": 0.0,
+        "is_cyrillic": 0.0
+      }
+    },
+    "ru": {
+      "accuracy": 0.9393499709808474,
+      "macro_f1": 0.9267544843191844,
+      "join_f1": 0.9571282051282052,
+      "split_f1": 0.8963807635101636,
+      "roc_auc": 0.9648958645796268,
+      "confusion_matrix": [
+        [
+          904,
+          113
+        ],
+        [
+          96,
+          2333
+        ]
+      ],
+      "feature_importances": {
+        "dy": 820.0,
+        "dx": 729.0,
+        "width_a": 575.0,
+        "width_b": 466.0,
+        "len_b": 464.0,
+        "x_overlap": 289.0,
+        "len_a": 288.0,
+        "starts_with_lowercase": 237.0,
+        "height_a": 190.0,
+        "starts_with_uppercase": 177.0,
+        "is_bullet_a": 151.0,
+        "ends_with_soft_punct": 130.0,
+        "font_size_a": 108.0,
+        "same_font": 87.0,
+        "height_b": 85.0,
+        "ends_with_terminal_punct": 85.0,
+        "is_same_line": 73.0,
+        "starts_with_digit": 72.0,
+        "ends_with_quote_or_paren": 52.0,
+        "font_size_b": 48.0,
+        "font_size_diff": 39.0,
+        "same_italic": 36.0,
+        "ends_with_hyphen": 35.0,
+        "same_bold": 20.0,
+        "same_page": 12.0,
+        "font_size_ratio": 9.0,
+        "is_cyrillic": 8.0,
+        "is_bullet_b": 0.0,
+        "is_short_label_a": 0.0,
+        "starts_with_inverted_punct": 0.0
+      }
+    },
+    "es": {
+      "accuracy": 0.9668769716088328,
+      "macro_f1": 0.9557293665343065,
+      "join_f1": 0.9779444861215304,
+      "split_f1": 0.9335142469470827,
+      "roc_auc": 0.9924184811110377,
+      "confusion_matrix": [
+        [
+          1032,
+          59
+        ],
+        [
+          88,
+          3259
+        ]
+      ],
+      "feature_importances": {
+        "dy": 1049.0,
+        "dx": 810.0,
+        "width_a": 776.0,
+        "width_b": 767.0,
+        "len_b": 542.0,
+        "len_a": 539.0,
+        "x_overlap": 484.0,
+        "starts_with_lowercase": 278.0,
+        "ends_with_terminal_punct": 240.0,
+        "height_a": 230.0,
+        "height_b": 223.0,
+        "same_bold": 176.0,
+        "starts_with_uppercase": 168.0,
+        "is_bullet_a": 111.0,
+        "same_font": 90.0,
+        "is_same_line": 83.0,
+        "starts_with_digit": 74.0,
+        "font_size_diff": 54.0,
+        "font_size_ratio": 47.0,
+        "font_size_a": 45.0,
+        "ends_with_soft_punct": 41.0,
+        "same_page": 39.0,
+        "font_size_b": 39.0,
+        "ends_with_hyphen": 38.0,
+        "ends_with_quote_or_paren": 36.0,
+        "same_italic": 28.0,
+        "is_short_label_a": 7.0,
+        "is_bullet_b": 4.0,
+        "starts_with_inverted_punct": 0.0,
+        "is_cyrillic": 0.0
+      }
+    },
+    "tr": {
+      "accuracy": 0.8576470588235294,
+      "macro_f1": 0.8557687588260123,
+      "join_f1": 0.8393094289508632,
+      "split_f1": 0.8722280887011615,
+      "roc_auc": 0.9540503574414831,
+      "confusion_matrix": [
+        [
+          413,
+          6
+        ],
+        [
+          115,
+          316
+        ]
+      ],
+      "feature_importances": {
+        "dy": 949.0,
+        "width_a": 759.0,
+        "width_b": 746.0,
+        "dx": 699.0,
+        "len_b": 598.0,
+        "len_a": 356.0,
+        "x_overlap": 348.0,
+        "height_a": 315.0,
+        "starts_with_lowercase": 221.0,
+        "height_b": 206.0,
+        "ends_with_terminal_punct": 135.0,
+        "starts_with_uppercase": 96.0,
+        "font_size_b": 91.0,
+        "font_size_a": 55.0,
+        "same_bold": 30.0,
+        "same_italic": 22.0,
+        "font_size_diff": 21.0,
+        "is_bullet_a": 18.0,
+        "font_size_ratio": 16.0,
+        "is_same_line": 16.0,
+        "ends_with_quote_or_paren": 16.0,
+        "same_font": 13.0,
+        "ends_with_soft_punct": 7.0,
+        "ends_with_hyphen": 7.0,
+        "is_short_label_a": 4.0,
+        "starts_with_digit": 1.0,
+        "same_page": 0.0,
+        "is_bullet_b": 0.0,
+        "starts_with_inverted_punct": 0.0,
+        "is_cyrillic": 0.0
+      }
+    },
+    "fr": {
+      "accuracy": 0.9243888573052871,
+      "macro_f1": 0.9020519736183792,
+      "join_f1": 0.9488264717198923,
+      "split_f1": 0.8552774755168662,
+      "roc_auc": 0.9787122858881837,
+      "confusion_matrix": [
+        [
+          393,
+          41
+        ],
+        [
+          92,
+          1233
+        ]
+      ],
+      "feature_importances": {
+        "dy": 1035.0,
+        "width_a": 873.0,
+        "dx": 746.0,
+        "len_b": 579.0,
+        "width_b": 545.0,
+        "len_a": 397.0,
+        "x_overlap": 291.0,
+        "starts_with_lowercase": 287.0,
+        "height_a": 261.0,
+        "starts_with_uppercase": 231.0,
+        "height_b": 190.0,
+        "ends_with_terminal_punct": 133.0,
+        "font_size_a": 98.0,
+        "same_bold": 82.0,
+        "is_bullet_a": 69.0,
+        "is_same_line": 66.0,
+        "font_size_b": 64.0,
+        "same_font": 61.0,
+        "ends_with_hyphen": 33.0,
+        "ends_with_soft_punct": 31.0,
+        "ends_with_quote_or_paren": 31.0,
+        "font_size_ratio": 20.0,
+        "same_italic": 17.0,
+        "is_cyrillic": 12.0,
+        "starts_with_digit": 11.0,
+        "font_size_diff": 10.0,
+        "same_page": 0.0,
+        "is_bullet_b": 0.0,
+        "is_short_label_a": 0.0,
+        "starts_with_inverted_punct": 0.0
+      }
+    },
+    "cs": {
+      "accuracy": 0.8619948409286329,
+      "macro_f1": 0.8564536232076312,
+      "join_f1": 0.8846568451311534,
+      "split_f1": 0.8282504012841091,
+      "roc_auc": 0.943880649139808,
+      "confusion_matrix": [
+        [
+          774,
+          104
+        ],
+        [
+          217,
+          1231
+        ]
+      ],
+      "feature_importances": {
+        "dy": 382.0,
+        "len_b": 209.0,
+        "dx": 188.0,
+        "width_a": 186.0,
+        "width_b": 163.0,
+        "x_overlap": 125.0,
+        "len_a": 99.0,
+        "starts_with_uppercase": 81.0,
+        "ends_with_terminal_punct": 34.0,
+        "ends_with_quote_or_paren": 30.0,
+        "height_a": 19.0,
+        "starts_with_lowercase": 18.0,
+        "same_italic": 16.0,
+        "ends_with_hyphen": 16.0,
+        "same_font": 14.0,
+        "ends_with_soft_punct": 14.0,
+        "same_page": 11.0,
+        "is_bullet_a": 11.0,
+        "font_size_a": 10.0,
+        "font_size_b": 9.0,
+        "font_size_diff": 6.0,
+        "height_b": 5.0,
+        "font_size_ratio": 3.0,
+        "is_same_line": 3.0,
+        "same_bold": 1.0,
+        "starts_with_digit": 0.0,
+        "is_bullet_b": 0.0,
+        "is_short_label_a": 0.0,
+        "starts_with_inverted_punct": 0.0,
+        "is_cyrillic": 0.0
+      }
+    },
+    "pt": {
+      "accuracy": 0.9379579872984856,
+      "macro_f1": 0.9137791680886509,
+      "join_f1": 0.9594378792717981,
+      "split_f1": 0.8681204569055037,
+      "roc_auc": 0.9771280760626401,
+      "confusion_matrix": [
+        [
+          418,
+          29
+        ],
+        [
+          98,
+          1502
+        ]
+      ],
+      "feature_importances": {
+        "dx": 659.0,
+        "dy": 448.0,
+        "width_a": 382.0,
+        "width_b": 368.0,
+        "len_b": 349.0,
+        "x_overlap": 298.0,
+        "len_a": 289.0,
+        "height_a": 156.0,
+        "starts_with_lowercase": 127.0,
+        "height_b": 88.0,
+        "same_bold": 69.0,
+        "ends_with_terminal_punct": 64.0,
+        "ends_with_quote_or_paren": 55.0,
+        "is_bullet_a": 55.0,
+        "is_same_line": 49.0,
+        "ends_with_soft_punct": 39.0,
+        "same_font": 23.0,
+        "same_italic": 23.0,
+        "font_size_diff": 22.0,
+        "starts_with_uppercase": 17.0,
+        "starts_with_digit": 13.0,
+        "font_size_ratio": 10.0,
+        "ends_with_hyphen": 8.0,
+        "same_page": 6.0,
+        "font_size_b": 6.0,
+        "font_size_a": 5.0,
+        "is_bullet_b": 1.0,
+        "is_short_label_a": 1.0,
+        "starts_with_inverted_punct": 0.0,
+        "is_cyrillic": 0.0
+      }
+    },
+    "de": {
+      "accuracy": 0.8755980861244019,
+      "macro_f1": 0.8753669724770643,
+      "join_f1": 0.8807339449541285,
+      "split_f1": 0.87,
+      "roc_auc": 0.9504843206283959,
+      "confusion_matrix": [
+        [
+          261,
+          52
+        ],
+        [
+          26,
+          288
+        ]
+      ],
+      "feature_importances": {
+        "dy": 873.0,
+        "width_a": 473.0,
+        "len_b": 372.0,
+        "width_b": 335.0,
+        "len_a": 302.0,
+        "dx": 273.0,
+        "height_b": 248.0,
+        "x_overlap": 182.0,
+        "height_a": 175.0,
+        "starts_with_lowercase": 108.0,
+        "same_font": 97.0,
+        "ends_with_terminal_punct": 94.0,
+        "font_size_a": 90.0,
+        "font_size_b": 64.0,
+        "is_bullet_a": 60.0,
+        "starts_with_uppercase": 59.0,
+        "ends_with_quote_or_paren": 53.0,
+        "same_bold": 38.0,
+        "font_size_diff": 35.0,
+        "font_size_ratio": 20.0,
+        "same_italic": 19.0,
+        "ends_with_soft_punct": 15.0,
+        "starts_with_digit": 11.0,
+        "ends_with_hyphen": 9.0,
+        "is_bullet_b": 6.0,
+        "is_same_line": 3.0,
+        "same_page": 2.0,
+        "is_short_label_a": 0.0,
+        "starts_with_inverted_punct": 0.0,
+        "is_cyrillic": 0.0
+      }
+    },
+    "pl": {
+      "accuracy": 0.7868417729511302,
+      "macro_f1": 0.7686786902153786,
+      "join_f1": 0.8334977313079502,
+      "split_f1": 0.703859649122807,
+      "roc_auc": 0.8696090748008135,
+      "confusion_matrix": [
+        [
+          2006,
+          230
+        ],
+        [
+          1458,
+          4225
+        ]
+      ],
+      "feature_importances": {
+        "width_a": 93.0,
+        "dx": 92.0,
+        "len_b": 62.0,
+        "dy": 56.0,
+        "width_b": 56.0,
+        "height_b": 53.0,
+        "len_a": 53.0,
+        "height_a": 35.0,
+        "is_same_line": 25.0,
+        "ends_with_terminal_punct": 22.0,
+        "starts_with_lowercase": 22.0,
+        "x_overlap": 20.0,
+        "is_bullet_a": 14.0,
+        "ends_with_hyphen": 9.0,
+        "same_font": 8.0,
+        "font_size_diff": 7.0,
+        "same_bold": 4.0,
+        "same_italic": 4.0,
+        "starts_with_uppercase": 4.0,
+        "is_cyrillic": 4.0,
+        "font_size_a": 2.0,
+        "font_size_b": 2.0,
+        "same_page": 1.0,
+        "starts_with_digit": 1.0,
+        "font_size_ratio": 0.0,
+        "ends_with_soft_punct": 0.0,
+        "ends_with_quote_or_paren": 0.0,
+        "is_bullet_b": 0.0,
+        "is_short_label_a": 0.0,
+        "starts_with_inverted_punct": 0.0
+      }
+    },
+    "uk": {
+      "accuracy": 0.9403571428571429,
+      "macro_f1": 0.9339349360845939,
+      "join_f1": 0.9545330792267901,
+      "split_f1": 0.9133367929423976,
+      "roc_auc": 0.9774556091204624,
+      "confusion_matrix": [
+        [
+          880,
+          82
+        ],
+        [
+          85,
+          1753
+        ]
+      ],
+      "feature_importances": {
+        "dx": 589.0,
+        "width_a": 441.0,
+        "dy": 407.0,
+        "width_b": 390.0,
+        "len_b": 323.0,
+        "x_overlap": 186.0,
+        "len_a": 179.0,
+        "is_same_line": 138.0,
+        "is_bullet_a": 93.0,
+        "starts_with_lowercase": 85.0,
+        "height_a": 82.0,
+        "starts_with_uppercase": 82.0,
+        "height_b": 76.0,
+        "ends_with_terminal_punct": 66.0,
+        "ends_with_soft_punct": 58.0,
+        "same_font": 35.0,
+        "starts_with_digit": 28.0,
+        "same_bold": 26.0,
+        "same_page": 22.0,
+        "ends_with_quote_or_paren": 20.0,
+        "is_cyrillic": 13.0,
+        "font_size_diff": 8.0,
+        "font_size_b": 6.0,
+        "font_size_ratio": 4.0,
+        "font_size_a": 1.0,
+        "same_italic": 1.0,
+        "ends_with_hyphen": 1.0,
+        "is_bullet_b": 0.0,
+        "is_short_label_a": 0.0,
+        "starts_with_inverted_punct": 0.0
+      }
+    },
+    "id": {
+      "accuracy": 0.9200210933380207,
+      "macro_f1": 0.8564413639344626,
+      "join_f1": 0.9519788918205805,
+      "split_f1": 0.7609038360483448,
+      "roc_auc": 0.962018747829573,
+      "confusion_matrix": [
+        [
+          724,
+          171
+        ],
+        [
+          284,
+          4510
+        ]
+      ],
+      "feature_importances": {
+        "dx": 1015.0,
+        "width_a": 999.0,
+        "dy": 767.0,
+        "width_b": 688.0,
+        "len_b": 623.0,
+        "x_overlap": 485.0,
+        "len_a": 358.0,
+        "starts_with_uppercase": 270.0,
+        "ends_with_terminal_punct": 223.0,
+        "height_b": 212.0,
+        "height_a": 184.0,
+        "starts_with_lowercase": 148.0,
+        "is_same_line": 133.0,
+        "font_size_b": 112.0,
+        "same_bold": 106.0,
+        "is_bullet_a": 86.0,
+        "font_size_a": 73.0,
+        "font_size_diff": 53.0,
+        "same_font": 53.0,
+        "ends_with_soft_punct": 53.0,
+        "same_italic": 33.0,
+        "ends_with_hyphen": 28.0,
+        "starts_with_digit": 27.0,
+        "font_size_ratio": 19.0,
+        "ends_with_quote_or_paren": 14.0,
+        "same_page": 13.0,
+        "is_short_label_a": 4.0,
+        "is_bullet_b": 0.0,
+        "starts_with_inverted_punct": 0.0,
+        "is_cyrillic": 0.0
+      }
+    }
+  },
+  "gbdt_universal": {
+    "accuracy": 0.9381866543309818,
+    "macro_f1": 0.9219698741770497,
+    "join_f1": 0.9575422988323139,
+    "split_f1": 0.8863974495217853,
+    "roc_auc": 0.975182666927316,
+    "confusion_matrix": [
+      [
+        8341,
+        990
+      ],
+      [
+        1148,
+        24109
+      ]
+    ],
+    "feature_importances": {
+      "dy": 1281.0,
+      "dx": 1188.0,
+      "width_a": 1006.0,
+      "len_b": 780.0,
+      "width_b": 668.0,
+      "x_overlap": 587.0,
+      "len_a": 496.0,
+      "height_a": 472.0,
+      "height_b": 362.0,
+      "starts_with_lowercase": 191.0,
+      "is_cyrillic": 188.0,
+      "font_size_a": 174.0,
+      "font_size_b": 174.0,
+      "ends_with_terminal_punct": 161.0,
+      "same_bold": 159.0,
+      "is_same_line": 153.0,
+      "starts_with_uppercase": 151.0,
+      "ends_with_soft_punct": 145.0,
+      "is_bullet_a": 120.0,
+      "font_size_diff": 110.0,
+      "same_font": 93.0,
+      "ends_with_quote_or_paren": 72.0,
+      "same_italic": 66.0,
+      "starts_with_digit": 62.0,
+      "font_size_ratio": 59.0,
+      "ends_with_hyphen": 57.0,
+      "same_page": 14.0,
+      "is_bullet_b": 11.0,
+      "is_short_label_a": 0.0,
+      "starts_with_inverted_punct": 0.0
+    }
+  },
+  "encoder_language_specific": {},
+  "encoder_universal": {
+    "accuracy": 0.9385,
+    "macro_f1": 0.9072425821402756,
+    "join_f1": 0.9610882632078456,
+    "split_f1": 0.8533969010727056,
+    "roc_auc": 0.9782550036368757,
+    "confusion_matrix": [
+      [
+        358,
+        78
+      ],
+      [
+        45,
+        1519
+      ]
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "model": "Heuristic Rules",
+    "tier": "Baseline",
+    "size_mb": 0.0,
+    "accuracy": 0.932648401826484,
+    "macro_f1": 0.8600165215389407,
+    "join_f1": 0.9608493696084937,
+    "split_f1": 0.7591836734693878,
+    "phrase_em": 0.44029850746268656,
+    "latency_ms_per_pair": 0.0004633561542978485
+  },
+  {
+    "model": "LightGBM GBDT",
+    "tier": "Tier 0",
+    "size_mb": 0.73,
+    "accuracy": 0.8972602739726028,
+    "macro_f1": 0.8327676904802308,
+    "join_f1": 0.9366197183098591,
+    "split_f1": 0.7289156626506024,
+    "phrase_em": 0.6343283582089553,
+    "latency_ms_per_pair": 0.007248059350100971
+  },
+  {
+    "model": "2-Stage Cascade",
+    "tier": "Tier 2",
+    "size_mb": 0.73,
+    "accuracy": 0.8972602739726028,
+    "macro_f1": 0.8327676904802308,
+    "join_f1": 0.9366197183098591,
+    "split_f1": 0.7289156626506024,
+    "phrase_em": 0.6343283582089553,
+    "latency_ms_per_pair": 0.00885057077489551
+  }
+]

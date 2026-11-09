@@ -1,0 +1,1766 @@
+[
+  {
+    "piece_id": 0,
+    "page_num": 0,
+    "text": "Estudos Culturais, Ensino e Diversidades",
+    "bbox": [
+      174.62,
+      115.55,
+      424.3,
+      131.09
+    ],
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "font_size": 14.04,
+    "is_bold": true
+  },
+  {
+    "piece_id": 1,
+    "page_num": 0,
+    "text": "Surdos Universitários: reflexão na Universidade",
+    "bbox": [
+      174.38,
+      143.89,
+      424.03,
+      157.17
+    ],
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "font_size": 12.0,
+    "is_bold": true
+  },
+  {
+    "piece_id": 2,
+    "page_num": 0,
+    "text": "Autor: Geraldo Venceslau de Lima Junior - UFCG,",
+    "bbox": [
+      174.38,
+      169.69,
+      427.03,
+      182.97
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 3,
+    "page_num": 0,
+    "text": "geraldovenceslau@gmail.com",
+    "bbox": [
+      225.05,
+      190.45,
+      376.39,
+      203.73
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 4,
+    "page_num": 0,
+    "text": "Autora: Karine Martins Cunha Venceslau - IFCE,",
+    "bbox": [
+      178.1,
+      211.09,
+      423.19,
+      224.37
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 5,
+    "page_num": 0,
+    "text": "Karine.mcunha@gmail.com",
+    "bbox": [
+      229.85,
+      231.85,
+      368.59,
+      245.13
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 6,
+    "page_num": 0,
+    "text": "Autora: Natalia Diniz Silva – UFCG,",
+    "bbox": [
+      208.37,
+      252.52,
+      390.07,
+      265.8
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 7,
+    "page_num": 0,
+    "text": "nataliadiniz01@gmail.com",
+    "bbox": [
+      232.61,
+      273.28,
+      365.71,
+      286.56
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 8,
+    "page_num": 0,
+    "text": "RESUMO",
+    "bbox": [
+      85.1,
+      293.92,
+      137.75,
+      307.2
+    ],
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "font_size": 12.0,
+    "is_bold": true
+  },
+  {
+    "piece_id": 9,
+    "page_num": 0,
+    "text": "A importância deste artigo é debater as condições oferecidas aos alunos surdos que",
+    "bbox": [
+      85.1,
+      319.84,
+      513.27,
+      333.12
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 10,
+    "page_num": 0,
+    "text": "frequentam o ensino superior, bem como cooperar experiências acadêmicas, para que",
+    "bbox": [
+      85.1,
+      333.64,
+      513.3,
+      346.92
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 11,
+    "page_num": 0,
+    "text": "tenha maior qualidade na realidade atual, visto que as modificações propostas pela",
+    "bbox": [
+      85.1,
+      347.44,
+      513.21,
+      360.72
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 12,
+    "page_num": 0,
+    "text": "política oficial para a educação de surdos em todos os níveis não estão ainda",
+    "bbox": [
+      85.1,
+      361.24,
+      513.21,
+      374.52
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 13,
+    "page_num": 0,
+    "text": "efetivamente inseridas nem as instituições educacionais preparadas para responder às",
+    "bbox": [
+      85.1,
+      375.04,
+      513.13,
+      388.32
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 14,
+    "page_num": 0,
+    "text": "necessidades desses alunos. O objetivo da pesquisa é argumentar e debater sobre a",
+    "bbox": [
+      85.1,
+      388.84,
+      513.09,
+      402.12
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 15,
+    "page_num": 0,
+    "text": "inclusão e a realidade dos níveis e modalidades da educação escolar. Acolher alunos",
+    "bbox": [
+      85.1,
+      402.64,
+      513.34,
+      415.92
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 16,
+    "page_num": 0,
+    "text": "surdos na universidade é um serviço emergencial e prioritário, porém, é um fato real,",
+    "bbox": [
+      85.1,
+      416.44,
+      513.3,
+      429.72
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 17,
+    "page_num": 0,
+    "text": "onde esses sujeitos ainda encaram obstáculos educacionais. Nesse assunto, apresenta-se",
+    "bbox": [
+      85.1,
+      430.26,
+      513.33,
+      443.54
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 18,
+    "page_num": 0,
+    "text": "a pesquisa, cujo tema refere-se à “",
+    "bbox": [
+      85.1,
+      444.06,
+      249.21,
+      457.34
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 19,
+    "page_num": 0,
+    "text": "Surdos Universitários: reflexão na Universidade”",
+    "bbox": [
+      249.17,
+      444.06,
+      505.06,
+      457.34
+    ],
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "font_size": 12.0,
+    "is_bold": true
+  },
+  {
+    "piece_id": 20,
+    "page_num": 0,
+    "text": "PALAVRAS-CHAVE: Surdo, Alunos, Universidade",
+    "bbox": [
+      85.1,
+      467.82,
+      339.43,
+      481.1
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 21,
+    "page_num": 0,
+    "text": "INTRODUÇÃO",
+    "bbox": [
+      88.1,
+      517.5,
+      171.38,
+      530.78
+    ],
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "font_size": 12.0,
+    "is_bold": true
+  },
+  {
+    "piece_id": 22,
+    "page_num": 0,
+    "text": "O numero de alunos surdos que cursam o Ensino Superior está expandindo-se",
+    "bbox": [
+      120.5,
+      543.3,
+      513.33,
+      556.58
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 23,
+    "page_num": 0,
+    "text": "cada vez mais, no Brasil. Segundo dados do Ministério da Educação, em 2003, somente",
+    "bbox": [
+      85.1,
+      564.06,
+      519.34,
+      577.34
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 24,
+    "page_num": 0,
+    "text": "surdos cursavam a universidade. Em 2005, aumentou-se para 2.428, entre instituições",
+    "bbox": [
+      85.1,
+      584.7,
+      513.24,
+      597.98
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 25,
+    "page_num": 0,
+    "text": "públicas e privadas (Brasil, 2006). O grande comparecimento de alunos surdos em",
+    "bbox": [
+      85.1,
+      605.46,
+      513.3,
+      618.74
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 26,
+    "page_num": 0,
+    "text": "contextos universitários é contemporâneo, e passa de distintas causas, que podem ser",
+    "bbox": [
+      85.1,
+      626.13,
+      513.33,
+      639.41
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 27,
+    "page_num": 0,
+    "text": "supramencionadas, como o reconhecimento, quando em 1990, do status de língua oral",
+    "bbox": [
+      85.1,
+      646.89,
+      513.33,
+      660.17
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 28,
+    "page_num": 0,
+    "text": "para a língua de sinais; criação de propostas de educação bilíngue de qualidade para",
+    "bbox": [
+      85.1,
+      667.53,
+      513.29,
+      680.81
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 29,
+    "page_num": 0,
+    "text": "surdos; e o trajeto histórico onde as políticas públicas de inclusão focam ao acesso e a",
+    "bbox": [
+      85.1,
+      688.29,
+      513.3,
+      701.57
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 30,
+    "page_num": 0,
+    "text": "participação ativa de pessoas com deficiência em diversas situações sociais.",
+    "bbox": [
+      85.1,
+      708.93,
+      452.02,
+      722.21
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 31,
+    "page_num": 0,
+    "text": ". “A evolução dos números da educação brasileira tem sido satisfatória, e o",
+    "bbox": [
+      198.53,
+      739.66,
+      512.4,
+      750.69
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 9.96,
+    "is_bold": false
+  },
+  {
+    "piece_id": 32,
+    "page_num": 0,
+    "text": "mais importante é que essa evolução tem ocorrido com qualidade no ensino”,",
+    "bbox": [
+      191.33,
+      756.94,
+      512.36,
+      767.97
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 9.96,
+    "is_bold": false
+  },
+  {
+    "piece_id": 33,
+    "page_num": 1,
+    "text": "afirmou o ministro da Educação, Fernando Haddad, em entrevista coletiva, em",
+    "bbox": [
+      191.33,
+      115.35,
+      512.39,
+      126.37
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 9.96,
+    "is_bold": false
+  },
+  {
+    "piece_id": 34,
+    "page_num": 1,
+    "text": "Brasília.”",
+    "bbox": [
+      191.33,
+      132.63,
+      231.86,
+      143.65
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 9.96,
+    "is_bold": false
+  },
+  {
+    "piece_id": 35,
+    "page_num": 1,
+    "text": "De acordo com o ministro, os dados do censo revelam que a educação superior",
+    "bbox": [
+      120.5,
+      182.53,
+      512.98,
+      195.81
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 36,
+    "page_num": 1,
+    "text": "no Brasil está mais acessível. Dos 5.954.021 estudantes matriculados em 28.671 cursos",
+    "bbox": [
+      85.1,
+      203.17,
+      513.23,
+      216.45
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 37,
+    "page_num": 1,
+    "text": "de graduação presencial e a distância, 2.065.082 são ingressantes e 839.397 estão em",
+    "bbox": [
+      85.1,
+      223.93,
+      513.04,
+      237.21
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 38,
+    "page_num": 1,
+    "text": "instituições federais de ensino superior. Na graduação presencial das instituições",
+    "bbox": [
+      85.1,
+      244.57,
+      513.01,
+      257.85
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 39,
+    "page_num": 1,
+    "text": "públicas, 36.294 ingressos ocorreram por meio de reserva de vagas, principalmente para",
+    "bbox": [
+      85.1,
+      265.36,
+      513.07,
+      278.64
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 40,
+    "page_num": 1,
+    "text": "alunos oriundos de escolas públicas. Além disso, em 2009 foram contadas 20.019",
+    "bbox": [
+      85.1,
+      286.0,
+      513.06,
+      299.28
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 41,
+    "page_num": 1,
+    "text": "matrículas de estudantes com algum tipo de deficiência (30% com baixa visão, 22%",
+    "bbox": [
+      85.1,
+      306.76,
+      513.04,
+      320.04
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 42,
+    "page_num": 1,
+    "text": "com deficiência auditiva e 21%, física).  (Inep.gov.br; acessado em 23/04/2015)",
+    "bbox": [
+      85.1,
+      327.4,
+      472.06,
+      340.68
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 43,
+    "page_num": 1,
+    "text": "OBJETIVO:",
+    "bbox": [
+      120.5,
+      380.8,
+      189.53,
+      394.08
+    ],
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "font_size": 12.0,
+    "is_bold": true
+  },
+  {
+    "piece_id": 44,
+    "page_num": 1,
+    "text": "O objetivo da pesquisa é argumentar e debater sobre a inclusão e a realidade dos",
+    "bbox": [
+      120.5,
+      434.22,
+      512.94,
+      447.5
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 45,
+    "page_num": 1,
+    "text": "níveis e modalidades da educação escolar. Acolher alunos surdos na universidade é um",
+    "bbox": [
+      85.1,
+      454.98,
+      513.34,
+      468.26
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 46,
+    "page_num": 1,
+    "text": "serviço emergencial e prioritário, porém, é um fato real, onde esses sujeitos ainda",
+    "bbox": [
+      85.1,
+      475.62,
+      513.34,
+      488.9
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 47,
+    "page_num": 1,
+    "text": "encaram obstáculos educacionais.",
+    "bbox": [
+      85.1,
+      496.38,
+      250.49,
+      509.66
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 48,
+    "page_num": 1,
+    "text": "1 – Visão dos alunos Surdos no contexto universitário",
+    "bbox": [
+      85.1,
+      574.74,
+      347.35,
+      588.02
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 49,
+    "page_num": 1,
+    "text": "A situação universitária é desafiadora para qualquer cidadão.  Adaptações na",
+    "bbox": [
+      120.5,
+      626.61,
+      513.2,
+      639.89
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 50,
+    "page_num": 1,
+    "text": "vida acadêmica, um dos desafiadores dos alunos universitários, obrigações que a",
+    "bbox": [
+      85.1,
+      647.25,
+      513.1,
+      660.53
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 51,
+    "page_num": 1,
+    "text": "universidade impõe transportam muitas vezes ao fracasso e ao abandono. Para obter",
+    "bbox": [
+      85.1,
+      668.01,
+      513.34,
+      681.29
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 52,
+    "page_num": 1,
+    "text": "assimilações com novas informações e novos conhecimentos, é necessário utilizar a",
+    "bbox": [
+      85.1,
+      688.65,
+      513.21,
+      701.93
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 53,
+    "page_num": 1,
+    "text": "contornação das falhas causadas dentro do trajeto escolar em que vivenciou",
+    "bbox": [
+      85.1,
+      709.29,
+      513.04,
+      722.57
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 54,
+    "page_num": 1,
+    "text": "anteriormente, como deficiências de linguagem, inadequação das condições de estudo,",
+    "bbox": [
+      85.1,
+      730.05,
+      513.26,
+      743.33
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 55,
+    "page_num": 2,
+    "text": "falta de habilidades lógicas, problemas de compreensão em leitura e dificuldade de",
+    "bbox": [
+      85.1,
+      115.33,
+      513.32,
+      128.61
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 56,
+    "page_num": 2,
+    "text": "produção de textos conforme Sampaio, Santos, 2002.",
+    "bbox": [
+      85.1,
+      136.09,
+      346.75,
+      149.37
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 57,
+    "page_num": 2,
+    "text": "O ambiente, professores, colegas são pontos triplos relevantes para que os",
+    "bbox": [
+      120.5,
+      166.69,
+      513.06,
+      179.97
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 58,
+    "page_num": 2,
+    "text": "desempenhos das atividades acadêmicas tornem de maneira estável e linear, com o fim",
+    "bbox": [
+      85.1,
+      187.45,
+      513.02,
+      200.73
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 59,
+    "page_num": 2,
+    "text": "de melhorar as chances de êxito, menciona Diniz, Almeida, 2005",
+    "bbox": [
+      85.1,
+      208.09,
+      400.63,
+      221.37
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 60,
+    "page_num": 2,
+    "text": "Os jovens surdos, como quaisquer outros, terão de fazer frente a expectativas, normas e",
+    "bbox": [
+      156.02,
+      269.58,
+      512.28,
+      280.6
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 9.96,
+    "is_bold": false
+  },
+  {
+    "piece_id": 61,
+    "page_num": 2,
+    "text": "modos de funcionamento diferentes daqueles de sua experiência escolar anterior. A",
+    "bbox": [
+      156.02,
+      281.1,
+      512.37,
+      292.12
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 9.96,
+    "is_bold": false
+  },
+  {
+    "piece_id": 62,
+    "page_num": 2,
+    "text": "adaptação a essa nova realidade dependerá de suas características pessoais, habilidades,",
+    "bbox": [
+      156.02,
+      292.5,
+      512.38,
+      303.52
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 9.96,
+    "is_bold": false
+  },
+  {
+    "piece_id": 63,
+    "page_num": 2,
+    "text": "de sua história e da forma como encara esse período de desenvolvimento próprio da",
+    "bbox": [
+      156.02,
+      304.02,
+      512.24,
+      315.04
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 9.96,
+    "is_bold": false
+  },
+  {
+    "piece_id": 64,
+    "page_num": 2,
+    "text": "faixa etária do jovem adulto, marcado pela construção da identidade, da autonomia, de",
+    "bbox": [
+      156.02,
+      315.54,
+      512.76,
+      326.56
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 9.96,
+    "is_bold": false
+  },
+  {
+    "piece_id": 65,
+    "page_num": 2,
+    "text": "ideais e de relações interpessoais (Ferreira, Almeida, Soares, 2001).",
+    "bbox": [
+      156.02,
+      327.06,
+      429.52,
+      338.08
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 9.96,
+    "is_bold": false
+  },
+  {
+    "piece_id": 66,
+    "page_num": 2,
+    "text": "Foster, Long e Snell (1999), fez uma pesquisa a respeito da vivência de",
+    "bbox": [
+      120.5,
+      370.0,
+      513.34,
+      383.28
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 67,
+    "page_num": 2,
+    "text": "estudantes surdos do ensino superior em contextos de inclusão, onde corrobora que a",
+    "bbox": [
+      85.1,
+      390.76,
+      513.34,
+      404.04
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 68,
+    "page_num": 2,
+    "text": "comunicação desses em sala de aula e o envolvimento com a aprendizagem são",
+    "bbox": [
+      85.1,
+      411.4,
+      513.34,
+      424.68
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 69,
+    "page_num": 2,
+    "text": "análogas a de seus colegas ouvintes Outro ponto relevante são os professores, que não",
+    "bbox": [
+      85.1,
+      432.18,
+      513.18,
+      445.46
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 70,
+    "page_num": 2,
+    "text": "tem a base de conhecimento de como lidar com os alunos surdos, bem como as",
+    "bbox": [
+      85.1,
+      452.82,
+      513.01,
+      466.1
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 71,
+    "page_num": 2,
+    "text": "adaptações metodológicas, que não são feitas, causando falhas aos alunos surdos.",
+    "bbox": [
+      85.1,
+      473.58,
+      484.3,
+      486.86
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 72,
+    "page_num": 2,
+    "text": "Segundo Goffredo (2004), para consentir às necessidades educacionais especiais",
+    "bbox": [
+      120.5,
+      504.3,
+      513.32,
+      517.58
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 73,
+    "page_num": 2,
+    "text": "dos jovens surdos, é preciso primeiramente, assegurar seu ingresso na universidade por",
+    "bbox": [
+      85.1,
+      524.94,
+      513.26,
+      538.22
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 74,
+    "page_num": 2,
+    "text": "meio do vestibular. Mas isso não garante que a inclusão se concretize. Vencida a",
+    "bbox": [
+      85.1,
+      545.7,
+      513.24,
+      558.98
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 75,
+    "page_num": 2,
+    "text": "barreira do ingresso, o próximo passo é a permanência no curso, que depende muito da",
+    "bbox": [
+      85.1,
+      566.34,
+      513.32,
+      579.62
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 76,
+    "page_num": 2,
+    "text": "mediação do intérprete e do conhecimento dentro da universidade de como lidar com os",
+    "bbox": [
+      85.1,
+      587.1,
+      513.02,
+      600.38
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 77,
+    "page_num": 2,
+    "text": "estudantes surdos.",
+    "bbox": [
+      85.1,
+      607.77,
+      178.46,
+      621.05
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 78,
+    "page_num": 2,
+    "text": "No Brasil, a legislação que trata da inclusão de surdos em instituições de ensino",
+    "bbox": [
+      120.5,
+      638.49,
+      513.33,
+      651.77
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 79,
+    "page_num": 2,
+    "text": "regulares (Brasil, 2003) estabelece que se deve oferecer, sempre que necessário, um",
+    "bbox": [
+      85.1,
+      659.13,
+      513.28,
+      672.41
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 80,
+    "page_num": 2,
+    "text": "intérprete de Língua Brasileira de Sinais/Língua Portuguesa, e recomenda flexibilidade",
+    "bbox": [
+      85.1,
+      679.89,
+      513.25,
+      693.17
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 81,
+    "page_num": 2,
+    "text": "na correção da escrita na provas, de modo a valorizar o conteúdo semântico. Segundo",
+    "bbox": [
+      85.1,
+      700.53,
+      513.21,
+      713.81
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 82,
+    "page_num": 2,
+    "text": "Martins,",
+    "bbox": [
+      85.1,
+      721.29,
+      128.42,
+      734.57
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 83,
+    "page_num": 3,
+    "text": "…os intérpretes vêm procurando construir, a partir de sua inscrição na",
+    "bbox": [
+      155.9,
+      146.05,
+      513.06,
+      159.33
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 84,
+    "page_num": 3,
+    "text": "educação, entre e com os surdos, seu lugar na triangulação “professor",
+    "bbox": [
+      155.9,
+      166.69,
+      513.35,
+      179.97
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 85,
+    "page_num": 3,
+    "text": "ouvinte, ILS, inteprete de língua de sinais] e aluno surdo” – um espaço",
+    "bbox": [
+      155.9,
+      187.45,
+      513.32,
+      200.73
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 86,
+    "page_num": 3,
+    "text": "no",
+    "bbox": [
+      155.9,
+      208.09,
+      170.9,
+      221.37
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 87,
+    "page_num": 3,
+    "text": "entre",
+    "bbox": [
+      182.53,
+      208.09,
+      209.41,
+      221.37
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 88,
+    "page_num": 3,
+    "text": "que",
+    "bbox": [
+      221.04,
+      208.09,
+      241.32,
+      221.37
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 89,
+    "page_num": 3,
+    "text": "a",
+    "bbox": [
+      252.94,
+      208.09,
+      261.22,
+      221.37
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 90,
+    "page_num": 3,
+    "text": "própria",
+    "bbox": [
+      272.85,
+      208.09,
+      310.49,
+      221.37
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 91,
+    "page_num": 3,
+    "text": "tradução",
+    "bbox": [
+      322.15,
+      208.09,
+      366.42,
+      221.37
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 92,
+    "page_num": 3,
+    "text": "instaura.",
+    "bbox": [
+      378.05,
+      208.09,
+      421.95,
+      221.37
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 93,
+    "page_num": 3,
+    "text": "(2007,",
+    "bbox": [
+      433.58,
+      208.09,
+      467.54,
+      221.37
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 94,
+    "page_num": 3,
+    "text": "p.178)",
+    "bbox": [
+      479.17,
+      208.09,
+      513.34,
+      221.37
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 95,
+    "page_num": 3,
+    "text": "Martins, 2006, afirma que o papel do intérprete da língua de sinais, é notar as",
+    "bbox": [
+      120.5,
+      259.6,
+      513.33,
+      272.88
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 96,
+    "page_num": 3,
+    "text": "dificuldades do aluno surdo e desviar outros modos e métodos de trabalhar com eles. É",
+    "bbox": [
+      85.1,
+      280.24,
+      513.09,
+      293.52
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 97,
+    "page_num": 3,
+    "text": "um ciclo transitório entre o aluno, o professor e conhecimento, com a finalidade de",
+    "bbox": [
+      85.1,
+      301.0,
+      513.23,
+      314.28
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 98,
+    "page_num": 3,
+    "text": "apoiar a superação linguística na interação comunicativa. Por isso, acrescenta a autora, o",
+    "bbox": [
+      85.1,
+      321.64,
+      513.34,
+      334.92
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 99,
+    "page_num": 3,
+    "text": "desempenho do intérprete requer-se de maneira profunda conhecer a base teórica em",
+    "bbox": [
+      85.1,
+      342.4,
+      513.1,
+      355.68
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 100,
+    "page_num": 3,
+    "text": "diferentes áreas de estudo, familiaridade com a linguagem utilizada em cada situação e",
+    "bbox": [
+      85.1,
+      363.04,
+      513.19,
+      376.32
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 101,
+    "page_num": 3,
+    "text": "experiência educacional.",
+    "bbox": [
+      85.1,
+      383.8,
+      206.69,
+      397.08
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 102,
+    "page_num": 3,
+    "text": "Foster, Long e Snell (1999) levantam outros problemas enfrentados pelos",
+    "bbox": [
+      120.5,
+      414.4,
+      513.34,
+      427.68
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 103,
+    "page_num": 3,
+    "text": "estudantes surdos: o feedback das informações complexo (tempo entre o que é falado e",
+    "bbox": [
+      85.1,
+      435.18,
+      513.3,
+      448.46
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 104,
+    "page_num": 3,
+    "text": "a tradução); o contato visual – caso o aluno observa o interprete interpretando o aluno",
+    "bbox": [
+      85.1,
+      455.82,
+      513.11,
+      469.1
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 105,
+    "page_num": 3,
+    "text": "surdo desconectara a visão do professor, ou caso o aluno queira ler algum material, as",
+    "bbox": [
+      85.1,
+      476.58,
+      513.02,
+      489.86
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 106,
+    "page_num": 3,
+    "text": "informações contidas já serão perdidas por não utilizar o visual ou leitura labial. É uma",
+    "bbox": [
+      85.1,
+      497.22,
+      513.01,
+      510.5
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 107,
+    "page_num": 3,
+    "text": "falha para os alunos surdos.",
+    "bbox": [
+      85.1,
+      517.98,
+      224.09,
+      531.26
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 108,
+    "page_num": 3,
+    "text": "Os assuntos complexos que envolvem o desempenho acadêmico de estudantes",
+    "bbox": [
+      120.5,
+      548.7,
+      513.33,
+      561.98
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 109,
+    "page_num": 3,
+    "text": "surdos ainda precisam ser trabalhados de maneira profunda. Conforme Lang (2002),",
+    "bbox": [
+      85.1,
+      569.34,
+      513.32,
+      582.62
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 110,
+    "page_num": 3,
+    "text": "mesmo em países tradicionais com a inclusão de surdos em instituições de ensino",
+    "bbox": [
+      85.1,
+      590.1,
+      513.26,
+      603.38
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 111,
+    "page_num": 3,
+    "text": "superior – como os Estados Unidos, onde em 1999 eles eram mais de 25 mil – há maior",
+    "bbox": [
+      85.1,
+      610.77,
+      513.33,
+      624.05
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 112,
+    "page_num": 3,
+    "text": "compreensão sobre as barreiras e dificuldades do que sobre as soluções. O que existe de",
+    "bbox": [
+      85.1,
+      631.53,
+      513.18,
+      644.81
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 113,
+    "page_num": 3,
+    "text": "caráter prático são diretrizes gerais, como o respeito à diferença linguística e a oferta de",
+    "bbox": [
+      85.1,
+      652.17,
+      513.12,
+      665.45
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 114,
+    "page_num": 3,
+    "text": "contribuições metodológicas específicas, como materiais especiais, novas tecnologias de",
+    "bbox": [
+      85.1,
+      672.81,
+      513.21,
+      686.09
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 115,
+    "page_num": 3,
+    "text": "ensino e serviços de apoio diferenciados, confirma Martins, 2006.",
+    "bbox": [
+      85.1,
+      693.57,
+      404.47,
+      706.85
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 116,
+    "page_num": 4,
+    "text": "METODOLOGIA",
+    "bbox": [
+      85.1,
+      115.33,
+      185.78,
+      128.61
+    ],
+    "font_name": "TimesNewRomanPS-BoldMT",
+    "font_size": 12.0,
+    "is_bold": true
+  },
+  {
+    "piece_id": 117,
+    "page_num": 4,
+    "text": "Na pesquisa bibliográfica foram examinadas diversas literaturas relativas ao",
+    "bbox": [
+      120.5,
+      146.05,
+      513.25,
+      159.33
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 118,
+    "page_num": 4,
+    "text": "assunto em estudo, artigos publicados na internet e que possibilitaram que este trabalho",
+    "bbox": [
+      85.1,
+      166.69,
+      513.02,
+      179.97
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 119,
+    "page_num": 4,
+    "text": "tomasse forma para ser baseado.",
+    "bbox": [
+      85.1,
+      187.45,
+      243.77,
+      200.73
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 120,
+    "page_num": 4,
+    "text": "Conforme Marconi e Lakatos (1992), a pesquisa bibliográfica é o levantamento",
+    "bbox": [
+      120.5,
+      218.17,
+      513.08,
+      231.45
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 121,
+    "page_num": 4,
+    "text": "de toda a bibliografia já publicada, em forma de livros, revistas, publicações avulsas e",
+    "bbox": [
+      85.1,
+      238.81,
+      513.01,
+      252.09
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 122,
+    "page_num": 4,
+    "text": "imprensa escrita. O escopo é fazer com que o pesquisador entre em contato direto com",
+    "bbox": [
+      85.1,
+      259.6,
+      513.06,
+      272.88
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 123,
+    "page_num": 4,
+    "text": "todo o material escrito sobre um determinado assunto, auxiliando o cientista na análise",
+    "bbox": [
+      85.1,
+      280.24,
+      513.06,
+      293.52
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 124,
+    "page_num": 4,
+    "text": "de suas pesquisas ou na manipulação de suas informações.",
+    "bbox": [
+      85.1,
+      301.0,
+      372.07,
+      314.28
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  },
+  {
+    "piece_id": 125,
+    "page_num": 4,
+    "text": "Conforme Marconi e Lakatos (1992), a pesquisa de campo é uma forma de",
+    "bbox": [
+      85.1,
+      331.6,
+      513.34,
+      344.88
+    ],
+    "font_name": "TimesNewRomanPSMT",
+    "font_size": 12.0,
+    "is_bold": false
+  }
+]
